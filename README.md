@@ -3,10 +3,10 @@
 
 <p align="left">I'm currently working on [Enplex.js](https://www.npmjs.com/package/enplex.js).</p>
 
-<p align="left">Looking to master TypeScript & CoffeeScript.</p>
+<p align="left">Looking to master JavaScript, TypeScript.</p>
 
-- ‍ All of my projects are available at [iscordian.github.io](iscordian.github.io)
--  Ask me about **Node.js, TypeScript, CoffeeScript**
+- ‍ All of my projects are available at [iscordian.github.io](https://iscordian.github.io)
+-  Ask me about **Node.js, TypeScript**
 -  How to reach me **iscordian.dev@gmail.com**
 - ⚡ Fun fact **I think I am funny**
 
