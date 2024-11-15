@@ -1,15 +1,18 @@
 <h1 align="center">Hi , I'm Koushik Roy</h1>
 <h3 align="center">Backend developer based in India</h3>
 
-<p align="left">I'm currently working on **Enplex.js**.</p>
+<p align="left">🔭 I'm currently working on Enplex.js npm pkg.</p>
 
-<p align="left">Looking to master JavaScript, TypeScript.</p>
+<p align="left">🌱 Looking to master **JavaScript**, **TypeScript**.</p>
 
--  Enplex.js: [npmjs.com/package/enplex.js](https://npmjs.com/package/enplex.js)
--  All of my projects are available at [iscordian.github.io](https://iscordian.github.io)
-- Ask me about **Node.js, TypeScript**
--  how to reach me **iscordian.dev@gmail.com**
--  fun fact **I think I am funny**
+-  💎 All of my projects are available at [iscordian.github.io](https://iscordian.github.io)
+-  ❔ Ask me about **Node.js, TypeScript**
+-  📧 how to reach me **iscordian.dev@gmail.com**
+-  ⚡ fun fact **I think I am funny**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iscordian" alt="iscordian" />
+  </a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
