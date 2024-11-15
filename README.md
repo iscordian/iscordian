@@ -1,13 +1,13 @@
 <h1 align="center">Hi , I'm Koushik Roy</h1>
 <h3 align="center">Backend developer based in India</h3>
 
-<p align="left">🔭 I'm currently working on Enplex.js npm pkg.</p>
+<p align="left"> 🔭 I'm currently working on Enplex.js.</p>
 
-<p align="left">🌱 Looking to master **JavaScript**, **TypeScript**.</p>
+<p align="left"> 🌱 Looking to master JavaScript, TypeScript.</p>
 
--  💎 All of my projects are available at [iscordian.github.io](https://iscordian.github.io)
--  ❔ Ask me about **Node.js, TypeScript**
--  📧 how to reach me **iscordian.dev@gmail.com**
+-  👨‍💻 All of my projects are available at [iscordian.github.io](https://iscordian.github.io)
+-  💬 Ask me about **Node.js, TypeScript**
+-  📫 how to reach me **iscordian.dev@gmail.com**
 -  ⚡ fun fact **I think I am funny**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iscordian&label=Profile%20views&color=0e75b6&style=flat" alt="iscordian" /> </p>
