@@ -5,11 +5,11 @@
 
 <p align="left">Looking to master JavaScript, TypeScript.</p>
 
--  Enplex.js: [npmjs.com](https://npmjs.com/package/enplex.js)
-- ‍ All of my projects are available at [iscordian.github.io](https://iscordian.github.io)
--  Ask me about **Node.js, TypeScript**
--  How to reach me **iscordian.dev@gmail.com**
-- ⚡ Fun fact **I think I am funny**
+-  Enplex.js: [npmjs.com/package/enplex.js](https://npmjs.com/package/enplex.js)
+-  All of my projects are available at [iscordian.github.io](https://iscordian.github.io)
+- Ask me about **Node.js, TypeScript**
+-  how to reach me **iscordian.dev@gmail.com**
+-  fun fact **I think I am funny**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
