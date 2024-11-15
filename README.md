@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Koushik Roy</h1>
 <h3 align="center">Backend developer based in India</h3>
 
-<p align="left">I'm currently working on [Enplex.js](https://www.npmjs.com/package/enplex.js).</p>
+<p align="left">I'm currently working on [Enplex.js](https://npmjs.com/package/enplex.js).</p>
 
 <p align="left">Looking to master JavaScript, TypeScript.</p>
 
